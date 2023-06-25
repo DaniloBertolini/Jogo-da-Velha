@@ -1,0 +1,12 @@
+.main-table {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100vh;
+    align-items: center;
+}
+
+.main-table > h1 {
+    font-size: 3rem;
+}

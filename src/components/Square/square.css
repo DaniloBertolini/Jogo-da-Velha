@@ -1,0 +1,38 @@
+:root {
+    --O-color: #2196f3;
+    --X-color: #f44336;
+}
+
+.square-button {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 5px;
+    font-size: 3rem;
+    font-weight: bold;
+
+    cursor: pointer;
+}
+
+.square-button.O.light {
+    background-color: var(--O-color);
+    color: #00000066;
+}
+
+.square-button.X.light {
+    background-color: var(--X-color);
+    color: #00000066;
+}
+
+.square-button.dark {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.square-button.O.dark {
+    color: blue;
+}
+
+.square-button.X.dark {
+    color: red;
+}

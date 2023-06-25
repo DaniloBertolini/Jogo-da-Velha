@@ -1,0 +1,13 @@
+.navbarA {
+    position: absolute;
+    left: 50px;
+    top: 40px;
+    text-decoration: none;
+}
+
+.navbarMode {
+    position: absolute;
+    right: 70px;
+    top: 45px;
+    background-color: transparent;
+}
