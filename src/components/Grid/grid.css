@@ -18,7 +18,7 @@
 @media (max-width: 676px) {
     .grid {
         grid-template-columns: repeat(3, 130px);
-        grid-template-rows: repeat(3, 90px);
+        grid-template-rows: repeat(3, 115px);
     }
     .square-button {
         font-size: 2rem;
@@ -28,7 +28,7 @@
 @media (max-width: 441px) {
     .grid {
         grid-template-columns: repeat(3, 90px);
-        grid-template-rows: repeat(3, 50px);
+        grid-template-rows: repeat(3, 80px);
     }
     .main-table > h1, .square-button {
         font-size: 1.5rem;
