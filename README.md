@@ -1,8 +1,8 @@
-# [Jogo da Velha](https://danilobertolini.github.io/Jogo-da-Velha/)
+# :hash: [Jogo da Velha](https://danilobertolini.github.io/Jogo-da-Velha/)
 
 Uma aplicação de um jogo da velha, para passar o tempo jogando com algum amigo.
 
-## Tecnologias
+## :bomb: Tecnologias
 
 - [REACT](https://react.dev/)
 - [VITE](https://vitejs.dev/)
@@ -10,7 +10,7 @@ Uma aplicação de um jogo da velha, para passar o tempo jogando com algum amigo
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [TYPESCRIPT](https://www.typescriptlang.org/)
 /
-## Como acessar
+## :books: Como acessar
   Pode acessar através desse [deploy](https://danilobertolini.github.io/Jogo-da-Velha/), ou se preferir na máquina local, pode seguir abaixo.
   - Abra o terminal e faça o clone.
   ```bash
